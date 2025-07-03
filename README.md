@@ -50,7 +50,7 @@ The built files will be in the `dist` folder, ready for static hosting.
 - **Frontend**: React 18 with hooks
 - **Styling**: TailwindCSS with custom components
 - **Routing**: React Router
-- **News Parsing**: rss-parser for RSS feeds, axios for JSON APIs
+- **News Parsing**: Browser-native DOMParser for RSS feeds, axios for JSON APIs
 - **NLP**: compromise.js for smart categorization and location extraction
 - **Icons**: Lucide React
 - **Build Tool**: Vite for fast development and optimized builds
