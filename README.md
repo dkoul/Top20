@@ -1,4 +1,4 @@
-# Top20 News Aggregator
+# Top20 News Aggregator [ Vibe coded ]
 
 A modern, ad-free news aggregation SPA that displays the top 20 news stories from configurable sources in a clean 4×5 grid layout. Features smart auto-tagging, click-based article promotion, and a clean minimal interface.
 
