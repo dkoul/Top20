@@ -11,7 +11,7 @@ export default defineConfig({
       output: {
         manualChunks: {
           vendor: ['react', 'react-dom', 'react-router-dom'],
-          utils: ['axios', 'rss-parser', 'compromise', 'date-fns']
+          utils: ['axios', 'compromise', 'date-fns']
         }
       }
     }
